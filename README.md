@@ -33,6 +33,13 @@ Install all dependencies in your environment using requirements.txt
 3) Perform Data transformation and model training by running Data Transform.py
 4) To Test the model, run main file.ipynb along with desired input parameters
 
+Download data files from the following Google Drive Link:
+
+`https://drive.google.com/drive/folders/1QR9GZWQBXWFoX-CxABLbydQPkG1zCA6d?usp=drive_link`
+
+After Downloading, move the data folder to the following path: YOUR_WORKSPACE\ml_api\api\
+
+
 ## Deployment
 
 To deploy this project on Docker, run
