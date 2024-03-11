@@ -42,6 +42,11 @@ After Downloading, move the data folder to the following path: YOUR_WORKSPACE\ml
 
 ## Deployment
 
+First pull the image from docker hub by running the following command
+
+```bash
+  docker pull dvraditya/moto_api_final
+```
 To deploy this project on Docker, run
 
 ```bash
