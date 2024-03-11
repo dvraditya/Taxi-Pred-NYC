@@ -1,0 +1,6 @@
+DEVELOPMENT: &development
+  ENV: dev
+  data_folder: data
+  past_data_file_location: past_data.pkl
+  xgb_model_file_location: xgb_model_final.pkl
+  LOG_FORMAT: "[%(asctime)s]{%(filename)s %(funcName)s:%(lineno)d %(threadName)s} %(levelname)s - %(message)s"
